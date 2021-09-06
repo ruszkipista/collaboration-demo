@@ -1,2 +1,4 @@
 # collaboration-demo
-Practice the usage of collaborative development
+Practise the usage of collaborative development
+
+##  Collaborators
